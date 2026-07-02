@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="StudentApp/StudentApp.vcxproj" Id="805a8b03-2111-4ee0-8071-bab65a600a9e" />
+  <Project Path="StudentCore/StudentCore.vcxproj" Id="3c54acf4-ab9f-4705-877d-6a6309637a6f" />
+  <Project Path="StudentCoreTests/StudentCoreTests.vcxproj" Id="d7b33bc3-890a-46c2-b3b2-9ac76962e527" />
+  <Project Path="StudentDLL/StudentDLL.vcxproj" Id="5a753300-1a9d-41ed-9f18-526461593722" />
+</Solution>

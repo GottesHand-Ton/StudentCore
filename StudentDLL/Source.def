@@ -1,0 +1,10 @@
+LIBRARY StudentDLL
+EXPORTS
+    createGroup
+    initDemoData
+    calculateAllAverages
+    findBestStudent
+    countDebtors
+    filterByAverage
+    sortByAverage
+    freeGroup
